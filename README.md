@@ -4,6 +4,8 @@
 -1: In problems 1-3, you didn't visualize the dataframe. Alghough this was not explicitly stated in the spec,it is usually a good idea to visualize the dataframe after performing operations on it to make sure everything went as expected.   
 
 -1: In problem 4 when you tried to find the busiest hour of the day, it seemed to me that you printed out all the values and manully selected the max. Instead, consider sorting all these values first.
+
+##### New Grade: 7/7
 _____
 
 Obtain the CSV (comma separated variable) file containing the counts of bicycles crossing the Fremont Bridge since 2012 (as described in https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k). Create a project directory with subdirectories for data and analysis, and create a README file. Download the data from https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD and put it in the data directory. Create a Jupyter notebook to analyze these data. In the notebook, complete the following:
